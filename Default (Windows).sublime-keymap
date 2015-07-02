@@ -1,0 +1,9 @@
+[ 
+	{ "keys": [ "escape", "r", "c", "<character>" ], "command": "register_copy" },
+	{ "keys": [ "escape", "r", "v", "<character>" ], "command": "register_paste" },
+	{ "keys": [ "escape", "r", "r" ], "command" : "register_list" },
+	{ "keys": [ "escape", "enter" ], "command" : "register_list" },
+	{ "keys": [ "escape", "r", "s" ], "command" : "register_save" },
+	{ "keys": [ "escape", "r", "l" ], "command" : "register_load" },
+	{ "keys": [ "escape", "r","backspace" ], "command" : "register_clear_all" },
+]
